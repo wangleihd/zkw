@@ -47,7 +47,8 @@ body {
   width: 30;
 }
 .myrow {
-  margin: 40px;
+  margin-top: 40px;
+  margin-bottom: -10px;
 }
 .info {
   background-color: white;
@@ -58,7 +59,20 @@ body {
 .tsinfo {
   color: red;
   margin-bottom: 5px;
+  text-align: right;
 }
 .myicon {
   color: #0099ff;
+}
+.myhospital{
+  color: #CC0000;
+}
+
+.row {
+  margin: 5px 0 5px 0;
+}
+
+.mybutton{
+  text-align: right;
+  margin-top: 10px;
 }
