@@ -1,6 +1,6 @@
 body {
-  padding-top: 20px;
-  padding-bottom: 40px;
+  padding-top: 10px;
+  padding-bottom: 20px;
   background-color: #eee;
   background-image: url("../images/1.png");
   background-size: cover;
@@ -43,8 +43,8 @@ body {
 }
 
 .logo {
-  height: 100px;
-  width: 30;
+  height: 88px;
+  width: 355;
 }
 .myrow {
   margin-top: 40px;
