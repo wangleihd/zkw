@@ -2,7 +2,7 @@ body {
   padding-top: 20px;
   padding-bottom: 40px;
   background-color: #eee;
-  background-image: url("../images/1.jpg");
+  background-image: url("../images/1.png");
   background-size: cover;
 }
 
@@ -10,6 +10,7 @@ body {
   max-width: 330px;
   padding: 15px;
   margin: 0 auto;
+  margin-top: 60px;
 }
 .form-signin .form-signin-heading,
 .form-signin .checkbox {
@@ -44,4 +45,20 @@ body {
 .logo {
   height: 100px;
   width: 30;
+}
+.myrow {
+  margin: 40px;
+}
+.info {
+  background-color: white;
+  border: 1px solid #cccccc;
+  padding:  10px;
+  border-radius: 5px;
+}
+.tsinfo {
+  color: red;
+  margin-bottom: 5px;
+}
+.myicon {
+  color: #0099ff;
 }
