@@ -1,7 +1,9 @@
 body {
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 40px;
   background-color: #eee;
+  background-image: url("../images/1.jpg");
+  background-size: cover;
 }
 
 .form-signin {
@@ -37,4 +39,9 @@ body {
   margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+}
+
+.logo {
+  height: 100px;
+  width: 30;
 }
